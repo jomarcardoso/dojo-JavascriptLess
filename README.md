@@ -1,4 +1,4 @@
-JavascriptLess
+# JavascriptLess
 
 A ideia é que a marcação funcione sem o Javascript.
 
@@ -8,7 +8,7 @@ Caso o Javascript:
 - não tenha carregado ainda;
 - dado algum erro.
 
-### Formulário
+## Formulário
 
 ```html
 <form action="https://test.com/register" method="post"> 
