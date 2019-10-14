@@ -13,8 +13,8 @@ Caso o Javascript:
 ```html
 <form action="https://test.com/register" method="post"> 
   <label>Nome: <input type="text" name="name"/></label> <br>
-  <input type="hidden" name="feature" value="new">
-  <input type="submit" value="submit"> <br>
+  <input type="hidden" name="feature" value="new"> <br>
+  <input type="submit" value="submit">
 </form>
 ```
 
