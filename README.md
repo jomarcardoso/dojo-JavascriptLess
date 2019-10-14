@@ -8,7 +8,11 @@ Caso o Javascript:
 - não tenha carregado ainda;
 - dado algum erro.
 
-## Formulário
+## Componentes
+
+Algumas trechos de código contando menos com o Javascript.
+
+### Formulário
 
 ```html
 <form action="https://test.com/register" method="post"> 
@@ -58,4 +62,8 @@ Array.from(elAccordions).forEach((el) => {
 ```
 
 O javascript está apenas complementando.
+
+## Referências
+
+- [jo-CSSComponents](https://github.com/jomarcardoso/jo-CSSComponents)
 
