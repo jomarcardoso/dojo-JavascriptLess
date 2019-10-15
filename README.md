@@ -27,7 +27,7 @@ Se não tiver javascript ainda assim o formulário será submetido.
 
 input[type="hidden"] para enviar os valores que não são editáveis.
 
-No `form` há outros (atributos)[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form] que podem auxiliar, como enctype (semelhante ao content-type) e target.
+No `form` há outros [atributos](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form) que podem auxiliar, como enctype (semelhante ao content-type) e target.
 
 ## Accordion
 
