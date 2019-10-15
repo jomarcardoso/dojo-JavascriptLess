@@ -29,6 +29,12 @@ input[type="hidden"] para enviar os valores que não são editáveis.
 
 No `form` há outros [atributos](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form) que podem auxiliar, como enctype (semelhante ao content-type) e target.
 
+**O que não deveria ser feito: (e eu ja vi)**
+
+- `<button type="button" />` no evento de "click" fazer submit. Dependente do Javascript.
+- Campos do formulário com qualquer "name" que são trocados ao submeter o formulário. Dependente do Javascript.
+- Seletores por "id" pegando os valores dos campos. Se o formulário foi construído corretamento com [FormData](https://developer.mozilla.org/pt-BR/docs/Web/API/FormData/FormData) da para pegar eles.
+
 ## Accordion
 
 ``` html
