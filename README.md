@@ -16,7 +16,8 @@ Algumas trechos de código contando menos com o Javascript.
 
 ```html
 <form action="https://test.com/register" method="post"> 
-  <label>Nome: <input type="text" name="name"/></label> <br>
+  <label>Nome: <input type="text" name="name"/> </label> <br>
+  <label>Email: <input type="text" name="email/> </label> <br>
   <input type="hidden" name="feature" value="new"> <br>
   <input type="submit" value="submit">
 </form>
@@ -24,7 +25,9 @@ Algumas trechos de código contando menos com o Javascript.
 
 Se não tiver javascript ainda assim o formulário será submetido.
 
-input[type="hidden"] para enviar os valores que não são visíveis.
+input[type="hidden"] para enviar os valores que não são editáveis.
+
+No `form` há outros (atributos)[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form] que podem auxiliar, como enctype (semelhante ao content-type) e target.
 
 ## Accordion
 
