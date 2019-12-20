@@ -1,6 +1,6 @@
 # JavascriptLess
 
-A ideia é que a marcação e o estilo funcione o máximo possível sem o Javascript.
+A ideia é fazer um site funcional e que o JavaScript seja um complemente deste.
 
 Imagine um ecommerce deixar de vender porque o botão de compra não está liberado, porque o JavaScript:
 - não tenha carregado ainda;
