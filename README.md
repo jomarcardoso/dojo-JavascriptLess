@@ -2,11 +2,11 @@
 
 A ideia é que a marcação funcione sem o Javascript.
 
-Imagine um ecommerce deixar de vender porque o botão de compra não está liberado.
-
-Caso o Javascript:
+Imagine um ecommerce deixar de vender porque o botão de compra não está liberado, porque o JavaScript:
 - não tenha carregado ainda;
 - dado algum erro.
+
+Ou então o usário tem uma péssima experiência de ver um carrossel quebrado até o JS fazer efeito.
 
 ## Componentes
 
